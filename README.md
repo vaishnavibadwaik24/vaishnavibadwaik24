@@ -6,6 +6,7 @@
 
 **📫 Contact:**
 
+- Portfolio: [Vaishnavi Badwaik](https://vaishnavi-badwaik-portfolio.netlify.app)
 - Email: vaishnavib2428@gmail.com
 - LinkedIn: [Vaishnavi Badwaik](https://www.linkedin.com/in/vaishnavib24)
 
