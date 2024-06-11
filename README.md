@@ -1,16 +1,20 @@
-## Hi there 👋
+## Vaishnavi Badwaik
 
-<!--
-**vaishnavibadwaik24/vaishnavibadwaik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm _Vaishnavi Badwaik_, a Laravel Developer.
+<br>
+<br>
 
-Here are some ideas to get you started:
+**📫 Contact:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: vaishnavib2428@gmail.com
+- LinkedIn: [Vaishnavi Badwaik](https://www.linkedin.com/in/vaishnavib24)
+
+  <br>
+  <br>
+
+**Technologies Used:**
+<br>
+<br>
+&nbsp; &nbsp; &nbsp; [<img src="./laravel.svg" height="40px">](https://laravel.com) &nbsp;
+&nbsp; &nbsp; &nbsp; [<img src="./react.svg" height="40px">](https://react.dev) &nbsp;
+&nbsp; &nbsp; &nbsp; [<img src="./php.svg" height="40px">](https://php.net)
