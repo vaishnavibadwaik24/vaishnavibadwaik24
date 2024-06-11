@@ -1,6 +1,6 @@
 ## Vaishnavi Badwaik
 
-👋 Hi there! I'm _Vaishnavi Badwaik_, a Laravel Developer.
+👋 Hi there! I'm _Vaishnavi Badwaik_, a Fullstack Web Developer.
 <br>
 <br>
 
